@@ -20,6 +20,9 @@
 ---
 
 ## Announcement
+- 5/20 We have another invited talk from Apache Taipei.
+<img src="520_invitedtalk.png" alt="booth" width="200">
+
 - 4/29 - 5/6 We invite the sharing from Apache Taipei Kafka team
 
 <img src="429_invitedtalk.png" alt="booth" width="200">
