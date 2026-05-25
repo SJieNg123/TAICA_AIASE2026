@@ -20,6 +20,8 @@
 ---
 
 ## Announcement
+- HW4 公布：Deadline 6/9 23:59 - Memory Engineering for Agents — Capture, Store, Retrieve, Inject. Details of [HW4](homeworks/HW4.md)
+
 - 5/27 We have another invited talk from Sowork.
 <img src="527_invitedtalk.png" alt="booth" width="200">
 
@@ -68,7 +70,7 @@ ___
 | [HW1](homeworks/HW1.md) | Markdown 創作與渲染實作 | 2026/03/10 |
 | [HW2](homeworks/HW2.md) | 規格 SDD 優化實作 (v1.0 → v2.0) | v1.0: 2026/03/20, v2.0: 2026/03/31 |
 | [HW3](homeworks/HW3.md) | Build Your Personal RAG — From Raw Data to Agent Skill | 4/14 23:59 (Phase 1) and 4/21 (Phase 2) |
-
+| [HW4](homeworks/HW4.md) | Memory Engineering for Agents — Capture, Store, Retrieve, Inject | 6/9 23:59 |
 ---
 
 ## 課程講義
