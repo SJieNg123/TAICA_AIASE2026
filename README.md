@@ -20,6 +20,9 @@
 ---
 
 ## Announcement
+
+- We summarize [HW3 result here](https://ktchuang.github.io/TAICA_AIASE2026/homeworks/HW3_result/). Details of each student will be checked and sent to each individual soon.
+
 - HW4 公布：Deadline 6/9 23:59 - Memory Engineering for Agents — Capture, Store, Retrieve, Inject. Details of [HW4](homeworks/HW4.md)
 
 - 5/27 We have another invited talk from Sowork.
